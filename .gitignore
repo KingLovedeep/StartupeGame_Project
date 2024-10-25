@@ -1,0 +1,13 @@
+/Library/
+/Temp/
+/Logs/
+/Obj/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+*.tmpro
+*.manifest
+/Build/
+/Packages/com.unity.collab-proxy/
